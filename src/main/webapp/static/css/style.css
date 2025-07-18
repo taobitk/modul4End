@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.search-bar {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.table {
+    vertical-align: middle;
+}
+
+.message {
+    margin-top: 15px;
+}
